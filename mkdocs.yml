@@ -8,6 +8,7 @@ theme:
 
   features:
     - navigation.footer
+    - content.action.edit
 
   font:
     text: Roboto
