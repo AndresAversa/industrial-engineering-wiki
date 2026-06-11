@@ -1,4 +1,4 @@
-# Chemistry
+# Aspects Of Machine Design
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/aspects-of-machine-design/
 
 ---
 

@@ -1,4 +1,4 @@
-# Chemistry
+# Modelling Of Dynamic Systems
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/modelling-of-dynamic-systems/
 
 ---
 

@@ -1,4 +1,4 @@
-# Chemistry
+# Data Acquisition
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/data-acquisition/
 
 ---
 

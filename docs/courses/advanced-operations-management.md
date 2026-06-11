@@ -1,4 +1,4 @@
-# Chemistry
+# Advanced Operations Management
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/advanced-operations-management/
 
 ---
 

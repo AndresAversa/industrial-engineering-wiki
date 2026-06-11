@@ -1,4 +1,4 @@
-# Chemistry
+# Computational Thinking
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/computational-thinking/
 
 ---
 

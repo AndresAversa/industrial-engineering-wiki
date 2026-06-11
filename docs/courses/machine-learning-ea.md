@@ -1,4 +1,4 @@
-# Chemistry
+# Machine Learning Ea
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/machine-learning-ea/
 
 ---
 

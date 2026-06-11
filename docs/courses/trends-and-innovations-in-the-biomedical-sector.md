@@ -1,4 +1,4 @@
-# Chemistry
+# Trends And Innovations In The Biomedical Sector
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/trends-and-innovations-in-the-biomedical-sector/
 
 ---
 

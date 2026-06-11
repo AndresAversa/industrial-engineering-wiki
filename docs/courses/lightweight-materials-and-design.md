@@ -1,4 +1,4 @@
-# Chemistry
+# Lightweight Materials And Design
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/lightweight-materials-and-design/
 
 ---
 

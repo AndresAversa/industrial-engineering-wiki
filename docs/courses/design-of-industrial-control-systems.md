@@ -1,4 +1,4 @@
-# Chemistry
+# Design Of Industrial Control Systems
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/design-of-industrial-control-systems/
 
 ---
 

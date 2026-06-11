@@ -1,4 +1,4 @@
-# Chemistry
+# Introduction To Process Technology
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/introduction-to-process-technology/
 
 ---
 

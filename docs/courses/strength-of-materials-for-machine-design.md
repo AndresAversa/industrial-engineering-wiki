@@ -1,4 +1,4 @@
-# Chemistry
+# Strength Of Materials For Machine Design
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/strength-of-materials-for-machine-design/
 
 ---
 

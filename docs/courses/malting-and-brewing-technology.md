@@ -1,4 +1,4 @@
-# Chemistry
+# Malting And Brewing Technology
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/malting-and-brewing-technology/
 
 ---
 

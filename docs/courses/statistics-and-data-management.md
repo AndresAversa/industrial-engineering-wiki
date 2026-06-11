@@ -1,4 +1,4 @@
-# Chemistry
+# Statistics And Data Management
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/statistics-and-data-management/
 
 ---
 

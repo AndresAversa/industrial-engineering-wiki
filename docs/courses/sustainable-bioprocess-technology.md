@@ -1,4 +1,4 @@
-# Chemistry
+# Sustainable Bioprocess Technology
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/sustainable-bioprocess-technology/
 
 ---
 

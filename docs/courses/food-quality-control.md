@@ -1,4 +1,4 @@
-# Chemistry
+# Food Quality Control
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/food-quality-control/
 
 ---
 

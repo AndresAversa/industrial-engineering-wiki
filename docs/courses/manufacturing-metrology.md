@@ -1,4 +1,4 @@
-# Chemistry
+# Manufacturing Metrology
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/manufacturing-metrology/
 
 ---
 

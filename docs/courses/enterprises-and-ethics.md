@@ -1,4 +1,4 @@
-# Chemistry
+# Enterprises And Ethics
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/enterprises-and-ethics/
 
 ---
 

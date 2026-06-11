@@ -1,4 +1,4 @@
-# Chemistry
+# Separation Technology
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/separation-technology/
 
 ---
 

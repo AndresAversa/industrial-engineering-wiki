@@ -1,4 +1,4 @@
-# Chemistry
+# Biochemistry And Cell Biology
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/biochemistry-and-cell-biology/
 
 ---
 

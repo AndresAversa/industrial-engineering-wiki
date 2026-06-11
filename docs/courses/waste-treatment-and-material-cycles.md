@@ -1,4 +1,4 @@
-# Chemistry
+# Waste Treatment And Material Cycles
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/waste-treatment-and-material-cycles/
 
 ---
 

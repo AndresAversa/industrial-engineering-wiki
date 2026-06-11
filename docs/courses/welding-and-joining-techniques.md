@@ -1,4 +1,4 @@
-# Chemistry
+# Welding And Joining Techniques
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/welding-and-joining-techniques/
 
 ---
 

@@ -1,4 +1,4 @@
-# Chemistry
+# Research And Development Experience
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/research-and-development-experience/
 
 ---
 

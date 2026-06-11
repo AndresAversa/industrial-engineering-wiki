@@ -1,4 +1,4 @@
-# Chemistry
+# Methods In Biomedical Research
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/methods-in-biomedical-research/
 
 ---
 

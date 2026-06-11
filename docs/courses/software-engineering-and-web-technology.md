@@ -1,4 +1,4 @@
-# Chemistry
+# Software Engineering And Web Technology
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/software-engineering-and-web-technology/
 
 ---
 

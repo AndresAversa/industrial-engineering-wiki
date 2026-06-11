@@ -1,4 +1,4 @@
-# Chemistry
+# Physical Chemistry
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/physical-chemistry/
 
 ---
 

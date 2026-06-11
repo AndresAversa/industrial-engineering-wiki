@@ -1,4 +1,4 @@
-# Chemistry
+# Integrated Lab Course On Bioprocess Engineering
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/integrated-lab-course-on-bioprocess-engineering/
 
 ---
 

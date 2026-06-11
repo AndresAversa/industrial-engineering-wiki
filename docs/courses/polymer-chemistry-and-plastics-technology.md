@@ -1,4 +1,4 @@
-# Chemistry
+# Polymer Chemistry And Plastics Technology
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/polymer-chemistry-and-plastics-technology/
 
 ---
 

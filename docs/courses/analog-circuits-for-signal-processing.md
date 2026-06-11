@@ -1,4 +1,4 @@
-# Chemistry
+# Analog Circuits For Signal Processing
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/analog-circuits-for-signal-processing/
 
 ---
 

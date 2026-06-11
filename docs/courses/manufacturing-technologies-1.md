@@ -1,4 +1,4 @@
-# Chemistry
+# Manufacturing Technologies 1
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/manufacturing-technologies-1/
 
 ---
 

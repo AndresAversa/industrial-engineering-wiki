@@ -1,4 +1,4 @@
-# Chemistry
+# Transmission Of Digital Information
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/transmission-of-digital-information/
 
 ---
 

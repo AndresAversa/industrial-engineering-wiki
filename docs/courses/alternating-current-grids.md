@@ -1,4 +1,4 @@
-# Chemistry
+# Alternating Current Grids
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/alternating-current-grids/
 
 ---
 

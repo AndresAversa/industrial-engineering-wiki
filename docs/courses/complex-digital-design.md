@@ -1,4 +1,4 @@
-# Chemistry
+# Complex Digital Design
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/complex-digital-design/
 
 ---
 

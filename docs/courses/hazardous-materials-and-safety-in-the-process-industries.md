@@ -1,4 +1,4 @@
-# Chemistry
+# Hazardous Materials And Safety In The Process Industries
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/hazardous-materials-and-safety-in-the-process-industries/
 
 ---
 

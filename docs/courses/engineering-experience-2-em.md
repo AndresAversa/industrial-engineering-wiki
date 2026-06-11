@@ -1,4 +1,4 @@
-# Chemistry
+# Engineering Experience 2 Em
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/engineering-experience-2-em/
 
 ---
 

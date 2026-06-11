@@ -1,4 +1,4 @@
-# Chemistry
+# Distribution Of Electrical Energy
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/distribution-of-electrical-energy/
 
 ---
 

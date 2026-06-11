@@ -1,4 +1,4 @@
-# Chemistry
+# Sustainable Energy Systems
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/sustainable-energy-systems/
 
 ---
 

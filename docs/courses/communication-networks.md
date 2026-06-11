@@ -1,4 +1,4 @@
-# Chemistry
+# Communication Networks
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/communication-networks/
 
 ---
 

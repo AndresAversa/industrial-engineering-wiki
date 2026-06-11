@@ -1,4 +1,4 @@
-# Chemistry
+# Developing Secure Software Systems
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/developing-secure-software-systems/
 
 ---
 

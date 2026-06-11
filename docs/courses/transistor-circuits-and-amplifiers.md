@@ -1,4 +1,4 @@
-# Chemistry
+# Transistor Circuits And Amplifiers
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/transistor-circuits-and-amplifiers/
 
 ---
 

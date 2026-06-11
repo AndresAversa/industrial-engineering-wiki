@@ -1,4 +1,4 @@
-# Chemistry
+# Digital Design Concepts
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/digital-design-concepts/
 
 ---
 

@@ -1,4 +1,4 @@
-# Chemistry
+# Biomechanics And Modelling
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/biomechanics-and-modelling/
 
 ---
 

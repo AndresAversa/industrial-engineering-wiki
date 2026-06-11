@@ -1,4 +1,4 @@
-# Chemistry
+# Thermomechanical Machines And Installations
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/thermomechanical-machines-and-installations/
 
 ---
 

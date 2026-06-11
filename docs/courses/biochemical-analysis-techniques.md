@@ -1,4 +1,4 @@
-# Chemistry
+# Biochemical Analysis Techniques
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/biochemical-analysis-techniques/
 
 ---
 

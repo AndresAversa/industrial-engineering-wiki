@@ -1,4 +1,4 @@
-# Chemistry
+# Systems And Control Theory
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/systems-and-control-theory/
 
 ---
 

@@ -1,4 +1,7 @@
-# Chemistry
+from pathlib import Path
+import yaml
+
+TEMPLATE = r"""# Course Name
 
 ---
 
@@ -123,7 +126,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/{slug}/
 
 ---
 
@@ -185,3 +188,49 @@ Answer.
 * Contributor 1
 
 Last updated: YYYY-MM-DD
+"""
+
+from pathlib import Path
+import re
+
+with open("mkdocs.yml", "r", encoding="utf-8") as f:
+    content = f.read()
+
+course_files = sorted(set(
+    re.findall(r'courses/[A-Za-z0-9\-]+\.md', content)
+))
+
+print(f"Found {len(course_files)} course pages")
+
+ok_to_run = True;
+
+for course_path in course_files:
+
+    print(course_path)
+
+    if ok_to_run:
+
+        md_path = Path("docs") / course_path
+
+        slug = md_path.stem
+
+        title = slug.replace("-", " ").title()
+
+        md_path.parent.mkdir(parents=True, exist_ok=True)
+
+        if not md_path.exists():
+            md_path.write_text(
+                TEMPLATE.format(slug=slug).replace(
+                    "# Course Name",
+                    f"# {title}"
+                ),
+                encoding="utf-8"
+            )
+
+        files_root = Path("docs/files") / slug
+
+        (files_root / "past-exams").mkdir(parents=True, exist_ok=True)
+        (files_root / "labs").mkdir(parents=True, exist_ok=True)
+        (files_root / "exercise-sessions").mkdir(parents=True, exist_ok=True)
+
+print("Done")

@@ -1,4 +1,4 @@
-# Chemistry
+# Engineering And Economics
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/engineering-and-economics/
 
 ---
 

@@ -1,4 +1,4 @@
-# Chemistry
+# Object Oriented Software Development
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/object-oriented-software-development/
 
 ---
 

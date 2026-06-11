@@ -1,4 +1,4 @@
-# Chemistry
+# Technology Entrepreneurship And New Business Development
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/technology-entrepreneurship-and-new-business-development/
 
 ---
 

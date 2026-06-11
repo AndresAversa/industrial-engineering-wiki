@@ -1,4 +1,4 @@
-# Chemistry
+# Hydrometallurgy And Sustainable Metal Production
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/hydrometallurgy-and-sustainable-metal-production/
 
 ---
 

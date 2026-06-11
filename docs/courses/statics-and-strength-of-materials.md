@@ -1,4 +1,4 @@
-# Chemistry
+# Statics And Strength Of Materials
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/statics-and-strength-of-materials/
 
 ---
 

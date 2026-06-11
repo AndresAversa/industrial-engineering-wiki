@@ -1,4 +1,4 @@
-# Chemistry
+# Sustainable Organic Chemistry
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/sustainable-organic-chemistry/
 
 ---
 

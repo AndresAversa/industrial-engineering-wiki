@@ -1,4 +1,4 @@
-# Chemistry
+# Introduction To Human Computer Interaction
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/introduction-to-human-computer-interaction/
 
 ---
 

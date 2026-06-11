@@ -1,4 +1,4 @@
-# Chemistry
+# 3D Printing
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/3d-printing/
 
 ---
 

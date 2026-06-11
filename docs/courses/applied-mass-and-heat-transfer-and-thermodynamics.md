@@ -1,4 +1,4 @@
-# Chemistry
+# Applied Mass And Heat Transfer And Thermodynamics
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/applied-mass-and-heat-transfer-and-thermodynamics/
 
 ---
 

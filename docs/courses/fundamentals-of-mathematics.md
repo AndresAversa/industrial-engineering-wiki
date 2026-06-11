@@ -1,4 +1,4 @@
-# Chemistry
+# Fundamentals Of Mathematics
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/fundamentals-of-mathematics/
 
 ---
 

@@ -1,4 +1,4 @@
-# Chemistry
+# Race Car Aerodynamics
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/race-car-aerodynamics/
 
 ---
 

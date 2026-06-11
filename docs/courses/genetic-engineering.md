@@ -1,4 +1,4 @@
-# Chemistry
+# Genetic Engineering
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/genetic-engineering/
 
 ---
 

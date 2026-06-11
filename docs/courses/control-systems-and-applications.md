@@ -1,4 +1,4 @@
-# Chemistry
+# Control Systems And Applications
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/control-systems-and-applications/
 
 ---
 

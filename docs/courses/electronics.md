@@ -1,4 +1,4 @@
-# Chemistry
+# Electronics
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/electronics/
 
 ---
 

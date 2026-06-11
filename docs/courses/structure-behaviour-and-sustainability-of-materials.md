@@ -1,4 +1,4 @@
-# Chemistry
+# Structure Behaviour And Sustainability Of Materials
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/structure-behaviour-and-sustainability-of-materials/
 
 ---
 

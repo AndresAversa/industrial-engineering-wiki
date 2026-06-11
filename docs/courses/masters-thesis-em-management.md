@@ -1,4 +1,4 @@
-# Chemistry
+# Masters Thesis Em Management
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/masters-thesis-em-management/
 
 ---
 

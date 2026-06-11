@@ -1,6 +1,8 @@
 site_name: KU Leuven Industrial Engineering Wiki
 site_description: A comprehensive resource for the studies at KU Leuven Campus Group T.
 site_url: https://industrial-engineering-wiki.github.io/
+repo_url: https://github.com/AndresAversa/industrial-engineering-wiki
+edit_uri: edit/main/docs/
 theme:
   name: material
 
@@ -30,9 +32,6 @@ theme:
   
 markdown_extensions:
   - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -67,7 +66,7 @@ nav:
           - Engineering Experience 1: courses/engineering-experience-1.md
 
       - Stage 2:
-          - Material Systems: courses/material-systems.md
+          - Mathematical Systems: courses/mathematical-systems.md
           - Object-Oriented Software Development: courses/object-oriented-software-development.md
           - Biotechnology: courses/biotechnology.md
           - Statics and Strength of Materials: courses/statics-and-strength-of-materials.md
@@ -86,90 +85,223 @@ nav:
   - Electromechanical Engineering:
       - Overview: electromechanical/index.md
 
-      - Core Programme:
-          - Design of Industrial Control Systems: courses/design-of-industrial-control-systems.md
-          - Applied Engineering Mechanics and Dynamics: courses/applied-engineering-mechanics-and-dynamics.md
-          - Data Acquisition: courses/data-acquisition.md
-          - Distribution of Electrical Energy: courses/distribution-of-electrical-energy.md
-          - Manufacturing Technologies 1: courses/manufacturing-technologies-1.md
-          - Thermal Technologies: courses/thermal-technologies.md
-          - Systems and Control Theory: courses/systems-and-control-theory.md
-          - Engineering Experience 2 EM: courses/engineering-experience-2-em.md
-          - Machine Design: courses/machine-design.md
-          - Electrical Machines: courses/electrical-machines.md
-          - Manufacturing Technologies 2: courses/manufacturing-technologies-2.md
-          - Strength of Materials for Machine Design: courses/strength-of-materials-for-machine-design.md
-          - Thermomechanical Machines and Installations: courses/thermomechanical-machines-and-installations.md
-          - Information Management: courses/information-management.md
+      - Bachelor:
+        - Core Programme:
+            - Design of Industrial Control Systems: courses/design-of-industrial-control-systems.md
+            - Applied Engineering Mechanics and Dynamics: courses/applied-engineering-mechanics-and-dynamics.md
+            - Data Acquisition: courses/data-acquisition.md
+            - Distribution of Electrical Energy: courses/distribution-of-electrical-energy.md
+            - Manufacturing Technologies 1: courses/manufacturing-technologies-1.md
+            - Thermal Technologies: courses/thermal-technologies.md
+            - Systems and Control Theory: courses/systems-and-control-theory.md
+            - Engineering Experience 2 EM: courses/engineering-experience-2-em.md
+            - Machine Design: courses/machine-design.md
+            - Electrical Machines: courses/electrical-machines.md
+            - Manufacturing Technologies 2: courses/manufacturing-technologies-2.md
+            - Strength of Materials for Machine Design: courses/strength-of-materials-for-machine-design.md
+            - Thermomechanical Machines and Installations: courses/thermomechanical-machines-and-installations.md
+            - Information Management: courses/information-management.md
 
-      - Automation Option:
-          - Operations Management: courses/operations-management.md
-          - Industrial Automation: courses/industrial-automation.md
-          - Vision Systems: courses/vision-systems.md
-          - Engineering Experience 3 Mechatronics: courses/engineering-experience-3-mechatronics.md
+        - Automation Option:
+            - Operations Management: courses/operations-management.md
+            - Industrial Automation: courses/industrial-automation.md
+            - Vision Systems: courses/vision-systems.md
+            - Engineering Experience 3 Mechatronics: courses/engineering-experience-3-mechatronics.md
 
-      - Design Option:
-          - Operations Management: courses/operations-management.md
-          - Aspects of Machine Design: courses/aspects-of-machine-design.md
-          - Automation for Production: courses/automation-for-production.md
-          - Engineering Experience 3 Design: courses/engineering-experience-3-design.md
+        - Design Option:
+            - Operations Management: courses/operations-management.md
+            - Aspects of Machine Design: courses/aspects-of-machine-design.md
+            - Automation for Production: courses/automation-for-production.md
+            - Engineering Experience 3 Design: courses/engineering-experience-3-design.md
+        
+      - Electromechanical Engineering Master:
+          - Core Programme:
+              - Drive Systems: courses/drive-systems.md
+              - Dynamic Aspects of Machine Design: courses/dynamic-aspects-of-machine-design.md
+              - Machine Learning (EM): courses/machine-learning-em.md
+
+          - Engineer as a Professional:
+              - Global Engineer: courses/global-engineer.md
+              - Customer Oriented Engineer: courses/customer-oriented-engineer.md
+              - Interpersonal Competences: courses/interpersonal-competences.md
+
+          - Management Option:
+              - Master's Thesis EM Management: courses/masters-thesis-em-management.md
+              - Total Quality Management: courses/total-quality-management.md
+              - Advanced Operations Management: courses/advanced-operations-management.md
+              - Technology Entrepreneurship and New Business Development: courses/technology-entrepreneurship-and-new-business-development.md
+
+          - Mechatronics Option:
+              - Master's Thesis EM Mechatronics: courses/masters-thesis-em-mechatronics.md
+              - Total Quality Management: courses/total-quality-management.md
+              - Robotics: courses/robotics.md
+              - Industrial IT: courses/industrial-it.md
+
+          - Advanced Robotics Focus:
+              - Mobile Robotics: courses/mobile-robotics.md
+              - Modelling of Dynamic Systems: courses/modelling-of-dynamic-systems.md
+              - Control Systems and Applications: courses/control-systems-and-applications.md
+
+          - Clinical Engineering Focus:
+              - Biomechanics and Modelling: courses/biomechanics-and-modelling.md
+              - Medical Devices: courses/medical-devices.md
+
+          - Digital and Lightweight Manufacturing Focus:
+              - Computer Aided Manufacturing: courses/computer-aided-manufacturing.md
+              - Manufacturing Metrology: courses/manufacturing-metrology.md
+              - 3D Printing: courses/3d-printing.md
+              - Welding and Joining Techniques: courses/welding-and-joining-techniques.md
+              - Lightweight Materials and Design: courses/lightweight-materials-and-design.md
+
+          - Ecotechnologies Focus:
+              - Life Cycle Engineering: courses/life-cycle-engineering.md
+              - Sustainable Energy Systems: courses/sustainable-energy-systems.md
+
+          - Automotive Engineering Focus:
+              - Vehicle Propulsion Systems: courses/vehicle-propulsion-systems.md
+              - Vehicle Dynamics: courses/vehicle-dynamics.md
+              - Race Car Aerodynamics: courses/race-car-aerodynamics.md
 
   - Electronics and ICT:
       - Overview: electronics/index.md
 
-      - Core Programme:
-          - Communication Networks: courses/communication-networks.md
-          - Digital Design Concepts: courses/digital-design-concepts.md
-          - Computer Architectures: courses/computer-architectures.md
-          - Programming Techniques: courses/programming-techniques.md
-          - Systems and Control Theory: courses/systems-and-control-theory.md
-          - Analog Circuits for Signal Processing: courses/analog-circuits-for-signal-processing.md
-          - Engineering Experience 2 EICT: courses/engineering-experience-2-eict.md
-          - Engineering Experience 3 EICT: courses/engineering-experience-3-eict.md
+      - Bachelor:
+        - Core Programme:
+            - Communication Networks: courses/communication-networks.md
+            - Digital Design Concepts: courses/digital-design-concepts.md
+            - Computer Architectures: courses/computer-architectures.md
+            - Programming Techniques: courses/programming-techniques.md
+            - Systems and Control Theory: courses/systems-and-control-theory.md
+            - Analog Circuits for Signal Processing: courses/analog-circuits-for-signal-processing.md
+            - Engineering Experience 2 EICT: courses/engineering-experience-2-eict.md
+            - Engineering Experience 3 EICT: courses/engineering-experience-3-eict.md
 
-      - Smart Electronics and Software:
-          - Operating Systems: courses/operating-systems.md
-          - Data Engineering: courses/data-engineering.md
-          - Digital Signal Processing: courses/digital-signal-processing.md
-          - Sensors and Actuators: courses/sensors-and-actuators.md
-          - Electronic Design: courses/electronic-design.md
-          - Complex Digital Design: courses/complex-digital-design.md
-          - Software Engineering and Web Technology: courses/software-engineering-and-web-technology.md
-          - Transmission of Digital Information: courses/transmission-of-digital-information.md
-          - Transistor Circuits and Amplifiers: courses/transistor-circuits-and-amplifiers.md
-          - Introduction to Human Computer Interaction: courses/introduction-to-human-computer-interaction.md
-          - Machine Learning: courses/machine-learning.md
+        - Smart Electronics and Software Option:
+            - Operating Systems: courses/operating-systems.md
+            - Data Engineering: courses/data-engineering.md
+            - Digital Signal Processing: courses/digital-signal-processing.md
+            - Sensors and Actuators: courses/sensors-and-actuators.md
+            - Electronic Design: courses/electronic-design.md
+            - Complex Digital Design: courses/complex-digital-design.md
+            - Software Engineering and Web Technology: courses/software-engineering-and-web-technology.md
+            - Transmission of Digital Information: courses/transmission-of-digital-information.md
+            - Transistor Circuits and Amplifiers: courses/transistor-circuits-and-amplifiers.md
+            - Introduction to Human Computer Interaction: courses/introduction-to-human-computer-interaction.md
+            - Machine Learning: courses/machine-learning.md
+
+      - Electronics and ICT Engineering Master:
+          - Core Programme:
+              - Master's Thesis Electronics and ICT Engineering: courses/masters-thesis-electronics-and-ict-engineering.md
+              - Machine Learning (EA): courses/machine-learning-ea.md
+              - R&D Experience: courses/research-and-development-experience.md
+              - Extended Reality: courses/extended-reality.md
+
+          - Engineer as a Professional:
+              - Global Engineer: courses/global-engineer.md
+              - Customer Oriented Engineer: courses/customer-oriented-engineer.md
+              - Interpersonal Competences: courses/interpersonal-competences.md
+
+          - Advanced Electronics Focus:
+              - Power Electronics: courses/power-electronics.md
+              - Hardware Design: courses/hardware-design.md
+
+          - Software Systems Focus:
+              - Developing Secure Software Systems: courses/developing-secure-software-systems.md
+              - Distributed Systems: courses/distributed-systems.md
+
+          - Management Focus:
+              - Technology Entrepreneurship and New Business Development: courses/technology-entrepreneurship-and-new-business-development.md
+              - Advanced Operations Management EA-ICT: courses/advanced-operations-management-ea-ict.md
+
+          - Electives:
+              - Total Quality Management: courses/total-quality-management.md
+
 
   - Chemical Engineering:
       - Overview: chemical/index.md
 
-      - Core Programme:
-          - Organic Chemistry: courses/organic-chemistry.md
-          - Introduction to Process Technology: courses/introduction-to-process-technology.md
-          - Chemical Lab Techniques: courses/chemical-lab-techniques.md
-          - Physical Chemistry: courses/physical-chemistry.md
-          - Biochemistry and Cell Biology: courses/biochemistry-and-cell-biology.md
-          - Analytical Chemistry: courses/analytical-chemistry.md
-          - Engineering Experience 2 Chemical: courses/engineering-experience-2-chemical.md
-          - Instrumental Analytical Chemistry: courses/instrumental-analytical-chemistry.md
-          - Separation Technology: courses/separation-technology.md
-          - Applied Mass and Heat Transfer and Thermodynamics: courses/applied-mass-and-heat-transfer-and-thermodynamics.md
-          - Process Control: courses/process-control.md
-          - Environmental Technology: courses/environmental-technology.md
-          - Reactor Technology: courses/reactor-technology.md
-          - Applied Engineering Techniques: courses/applied-engineering-techniques.md
-          - Engineering Experience 3 Chemical: courses/engineering-experience-3-chemical.md
+      - Bachelor:
+        - Core Programme:
+            - Organic Chemistry: courses/organic-chemistry.md
+            - Introduction to Process Technology: courses/introduction-to-process-technology.md
+            - Chemical Lab Techniques: courses/chemical-lab-techniques.md
+            - Physical Chemistry: courses/physical-chemistry.md
+            - Biochemistry and Cell Biology: courses/biochemistry-and-cell-biology.md
+            - Analytical Chemistry: courses/analytical-chemistry.md
+            - Engineering Experience 2 Chemical: courses/engineering-experience-2-chemical.md
+            - Instrumental Analytical Chemistry: courses/instrumental-analytical-chemistry.md
+            - Separation Technology: courses/separation-technology.md
+            - Applied Mass and Heat Transfer and Thermodynamics: courses/applied-mass-and-heat-transfer-and-thermodynamics.md
+            - Process Control: courses/process-control.md
+            - Environmental Technology: courses/environmental-technology.md
+            - Reactor Technology: courses/reactor-technology.md
+            - Applied Engineering Techniques: courses/applied-engineering-techniques.md
+            - Engineering Experience 3 Chemical: courses/engineering-experience-3-chemical.md
 
-      - Chemical Engineering Option:
-          - Microbiology: courses/microbiology.md
-          - Polymer Chemistry and Plastics Technology: courses/polymer-chemistry-and-plastics-technology.md
-          - Industrial Chemistry: courses/industrial-chemistry.md
-          - Chemical Engineering Computing: courses/chemical-engineering-computing.md
-          - Environmental Experiences: courses/environmental-experiences.md
+        - Chemical Engineering Option:
+            - Microbiology: courses/microbiology.md
+            - Polymer Chemistry and Plastics Technology: courses/polymer-chemistry-and-plastics-technology.md
+            - Industrial Chemistry: courses/industrial-chemistry.md
+            - Chemical Engineering Computing: courses/chemical-engineering-computing.md
+            - Environmental Experiences: courses/environmental-experiences.md
 
-      - Biochemical Engineering Option:
-          - Microbiology: courses/microbiology.md
-          - Biochemical Analysis Techniques: courses/biochemical-analysis-techniques.md
-          - Food Technology: courses/food-technology.md
-          - Molecular Biology: courses/molecular-biology.md
-          - Advanced Microbiology: courses/advanced-microbiology.md
+        - Biochemical Engineering Option:
+            - Microbiology: courses/microbiology.md
+            - Biochemical Analysis Techniques: courses/biochemical-analysis-techniques.md
+            - Food Technology: courses/food-technology.md
+            - Molecular Biology: courses/molecular-biology.md
+            - Advanced Microbiology: courses/advanced-microbiology.md
+
+      - Chemical Engineering Master:
+          - Core Programme:
+              - Master's Thesis Chemical Engineering: courses/masters-thesis-chemical-engineering.md
+              - Total Quality Management: courses/total-quality-management.md
+              - Reactor and Process Technology Chemical Engineering Technology: courses/reactor-and-process-technology-chemical-engineering-technology.md
+              - Waste Treatment and Material Cycles: courses/waste-treatment-and-material-cycles.md
+              - Applied Sustainability Assessment: courses/applied-sustainability-assessment.md
+              - Materials and Surface Characterization: courses/materials-and-surface-characterization.md
+              - Advanced Materials Technology: courses/advanced-materials-technology.md
+              - Hydrometallurgy and Sustainable Metal Production: courses/hydrometallurgy-and-sustainable-metal-production.md
+
+          - Engineer as a Professional:
+              - Global Engineer: courses/global-engineer.md
+              - Customer Oriented Engineer: courses/customer-oriented-engineer.md
+              - Interpersonal Competences: courses/interpersonal-competences.md
+
+          - Electives:
+              - Sustainable Energy Systems: courses/sustainable-energy-systems.md
+              - Rheology and Polymer Processing: courses/rheology-and-polymer-processing.md
+              - Sustainable Organic Chemistry: courses/sustainable-organic-chemistry.md
+              - Hazardous Materials and Safety in the Process Industries: courses/hazardous-materials-and-safety-in-the-process-industries.md
+              - Technology Entrepreneurship and New Business Development: courses/technology-entrepreneurship-and-new-business-development.md
+              - Operations Management: courses/operations-management.md
+
+      - Biochemical Engineering Master:
+          - Core Programme:
+              - Master's Thesis Biochemical Engineering: courses/masters-thesis-biochemical-engineering.md
+              - Total Quality Management: courses/total-quality-management.md
+              - Reactor and Process Technology Biochemical Engineering Technology: courses/reactor-and-process-technology-biochemical-engineering-technology.md
+              - Genetic Engineering: courses/genetic-engineering.md
+              - Bioinformatics and Biostatistics: courses/bioinformatics-and-biostatistics.md
+              - Food Quality Control: courses/food-quality-control.md
+
+          - Engineer as a Professional:
+              - Global Engineer: courses/global-engineer.md
+              - Customer Oriented Engineer: courses/customer-oriented-engineer.md
+              - Interpersonal Competences: courses/interpersonal-competences.md
+
+          - Genetic and Bioprocess Engineering Focus:
+              - Bioprocess Engineering: courses/bioprocess-engineering.md
+              - Sustainable Bioprocess Technology: courses/sustainable-bioprocess-technology.md
+              - Integrated Lab Course on Bioprocess Engineering: courses/integrated-lab-course-on-bioprocess-engineering.md
+
+          - Biomedical Engineering Focus:
+              - Methods in Biomedical Research: courses/methods-in-biomedical-research.md
+              - Physiological Systems: courses/physiological-systems.md
+              - Biomedical Engineering: courses/biomedical-engineering.md
+
+          - Electives:
+              - Technology Entrepreneurship and New Business Development: courses/technology-entrepreneurship-and-new-business-development.md
+              - Operations Management: courses/operations-management.md
+              - Trends and Innovations in the Biomedical Sector: courses/trends-and-innovations-in-the-biomedical-sector.md
+              - Malting and Brewing Technology: courses/malting-and-brewing-technology.md

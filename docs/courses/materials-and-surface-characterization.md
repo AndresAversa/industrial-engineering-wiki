@@ -1,4 +1,4 @@
-# Chemistry
+# Materials And Surface Characterization
 
 ---
 
@@ -123,7 +123,7 @@ Description.
 
 Store files in:
 
-docs/files/chemistry/
+docs/files/materials-and-surface-characterization/
 
 ---
 
