@@ -1,0 +1,50 @@
+site_name: KU Leuven Industrial Engineering Wiki
+site_description: A comprehensive resource for the studies at KU Leuven Campus Group T.
+site_url: https://industrial-engineering-wiki.github.io/
+theme:
+  name: material
+
+  features:
+    - navigation.footer
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch-outline
+        name: Switch to light mode
+
+  logo: assets/logo.png
+  
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
