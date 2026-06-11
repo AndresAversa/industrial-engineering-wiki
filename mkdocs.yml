@@ -63,6 +63,8 @@ nav:
           - Chemistry: courses/chemistry.md
           - Electricity: courses/electricity.md
           - Computational Thinking: courses/computational-thinking.md
+          - Enterprises and Ethics: courses/enterprises-and-ethics.md
+          - Engineering Experience 1: courses/engineering-experience-1.md
 
       - Stage 2:
           - Material Systems: courses/material-systems.md
@@ -74,15 +76,12 @@ nav:
           - Thermal Fluid Sciences: courses/thermal-fluid-sciences.md
           - Alternating Current Grids: courses/alternating-current-grids.md
           - Statistics and Data Management: courses/statistics-and-data-management.md
-
-      - Engineers and the World:
-          - Enterprises and Ethics: courses/enterprises-and-ethics.md
-          - Religions: courses/religions.md
           - Engineering and Economics: courses/engineering-and-economics.md
-          - Engineering and Sustainability: courses/engineering-and-sustainability.md
+          - Religions: courses/religions.md
 
-      - Engineering Experiences:
-          - Engineering Experience 1: courses/engineering-experience-1.md
+      - Stage 3:
+          - Engineering and Sustainability: courses/engineering-and-sustainability.md
+          - Religions: courses/religions.md          
 
   - Electromechanical Engineering:
       - Overview: electromechanical/index.md
