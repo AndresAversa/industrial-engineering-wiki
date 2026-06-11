@@ -48,3 +48,36 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+
+nav:
+  - Home: index.md
+
+  - General:
+      - Overview: general/index.md
+      - Mathematics I: courses/mathematics-1.md
+      - Mathematics II: courses/mathematics-2.md
+      - Physics: courses/physics.md
+      - Programming: courses/programming.md
+      - Mechanics: courses/mechanics.md
+
+  - Electromechanical:
+      - Overview: electromechanical/index.md
+      - Thermodynamics: courses/thermodynamics.md
+      - Fluid Mechanics: courses/fluid-mechanics.md
+      - Machine Design: courses/machine-design.md
+      - Control Systems: courses/control-systems.md
+
+  - Electronics & ICT:
+      - Overview: electronics/index.md
+      - Digital Electronics: courses/digital-electronics.md
+      - Signals & Systems: courses/signals-systems.md
+      - Communication Systems: courses/communication-systems.md
+
+  - Chemical:
+      - Overview: chemical/index.md
+      - Chemical Thermodynamics: courses/chemical-thermodynamics.md
+      - Process Engineering: courses/process-engineering.md
+      - Reactor Design: courses/reactor-design.md
+
+  - Course Catalogue:
+      - All Courses: catalogue/index.md
