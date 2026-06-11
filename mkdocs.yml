@@ -54,30 +54,123 @@ nav:
 
   - General:
       - Overview: general/index.md
-      - Mathematics I: courses/mathematics-1.md
-      - Mathematics II: courses/mathematics-2.md
-      - Physics: courses/physics.md
-      - Programming: courses/programming.md
-      - Mechanics: courses/mechanics.md
 
-  - Electromechanical:
+      - Stage 1:
+          - Fundamentals of Mathematics: courses/fundamentals-of-mathematics.md
+          - Mathematical Modelling: courses/mathematical-modelling.md
+          - Dynamics and Energy: courses/dynamics-and-energy.md
+          - Vibrations and Waves: courses/vibrations-and-waves.md
+          - Chemistry: courses/chemistry.md
+          - Electricity: courses/electricity.md
+          - Computational Thinking: courses/computational-thinking.md
+
+      - Stage 2:
+          - Material Systems: courses/material-systems.md
+          - Object-Oriented Software Development: courses/object-oriented-software-development.md
+          - Biotechnology: courses/biotechnology.md
+          - Statics and Strength of Materials: courses/statics-and-strength-of-materials.md
+          - Structure Behaviour and Sustainability of Materials: courses/structure-behaviour-and-sustainability-of-materials.md
+          - Electronics: courses/electronics.md
+          - Thermal Fluid Sciences: courses/thermal-fluid-sciences.md
+          - Alternating Current Grids: courses/alternating-current-grids.md
+          - Statistics and Data Management: courses/statistics-and-data-management.md
+
+      - Engineers and the World:
+          - Enterprises and Ethics: courses/enterprises-and-ethics.md
+          - Religions: courses/religions.md
+          - Engineering and Economics: courses/engineering-and-economics.md
+          - Engineering and Sustainability: courses/engineering-and-sustainability.md
+
+      - Engineering Experiences:
+          - Engineering Experience 1: courses/engineering-experience-1.md
+
+  - Electromechanical Engineering:
       - Overview: electromechanical/index.md
-      - Thermodynamics: courses/thermodynamics.md
-      - Fluid Mechanics: courses/fluid-mechanics.md
-      - Machine Design: courses/machine-design.md
-      - Control Systems: courses/control-systems.md
 
-  - Electronics & ICT:
+      - Core Programme:
+          - Design of Industrial Control Systems: courses/design-of-industrial-control-systems.md
+          - Applied Engineering Mechanics and Dynamics: courses/applied-engineering-mechanics-and-dynamics.md
+          - Data Acquisition: courses/data-acquisition.md
+          - Distribution of Electrical Energy: courses/distribution-of-electrical-energy.md
+          - Manufacturing Technologies 1: courses/manufacturing-technologies-1.md
+          - Thermal Technologies: courses/thermal-technologies.md
+          - Systems and Control Theory: courses/systems-and-control-theory.md
+          - Engineering Experience 2 EM: courses/engineering-experience-2-em.md
+          - Machine Design: courses/machine-design.md
+          - Electrical Machines: courses/electrical-machines.md
+          - Manufacturing Technologies 2: courses/manufacturing-technologies-2.md
+          - Strength of Materials for Machine Design: courses/strength-of-materials-for-machine-design.md
+          - Thermomechanical Machines and Installations: courses/thermomechanical-machines-and-installations.md
+          - Information Management: courses/information-management.md
+
+      - Automation Option:
+          - Operations Management: courses/operations-management.md
+          - Industrial Automation: courses/industrial-automation.md
+          - Vision Systems: courses/vision-systems.md
+          - Engineering Experience 3 Mechatronics: courses/engineering-experience-3-mechatronics.md
+
+      - Design Option:
+          - Operations Management: courses/operations-management.md
+          - Aspects of Machine Design: courses/aspects-of-machine-design.md
+          - Automation for Production: courses/automation-for-production.md
+          - Engineering Experience 3 Design: courses/engineering-experience-3-design.md
+
+  - Electronics and ICT:
       - Overview: electronics/index.md
-      - Digital Electronics: courses/digital-electronics.md
-      - Signals & Systems: courses/signals-systems.md
-      - Communication Systems: courses/communication-systems.md
 
-  - Chemical:
+      - Core Programme:
+          - Communication Networks: courses/communication-networks.md
+          - Digital Design Concepts: courses/digital-design-concepts.md
+          - Computer Architectures: courses/computer-architectures.md
+          - Programming Techniques: courses/programming-techniques.md
+          - Systems and Control Theory: courses/systems-and-control-theory.md
+          - Analog Circuits for Signal Processing: courses/analog-circuits-for-signal-processing.md
+          - Engineering Experience 2 EICT: courses/engineering-experience-2-eict.md
+          - Engineering Experience 3 EICT: courses/engineering-experience-3-eict.md
+
+      - Smart Electronics and Software:
+          - Operating Systems: courses/operating-systems.md
+          - Data Engineering: courses/data-engineering.md
+          - Digital Signal Processing: courses/digital-signal-processing.md
+          - Sensors and Actuators: courses/sensors-and-actuators.md
+          - Electronic Design: courses/electronic-design.md
+          - Complex Digital Design: courses/complex-digital-design.md
+          - Software Engineering and Web Technology: courses/software-engineering-and-web-technology.md
+          - Transmission of Digital Information: courses/transmission-of-digital-information.md
+          - Transistor Circuits and Amplifiers: courses/transistor-circuits-and-amplifiers.md
+          - Introduction to Human Computer Interaction: courses/introduction-to-human-computer-interaction.md
+          - Machine Learning: courses/machine-learning.md
+
+  - Chemical Engineering:
       - Overview: chemical/index.md
-      - Chemical Thermodynamics: courses/chemical-thermodynamics.md
-      - Process Engineering: courses/process-engineering.md
-      - Reactor Design: courses/reactor-design.md
 
-  - Course Catalogue:
-      - All Courses: catalogue/index.md
+      - Core Programme:
+          - Organic Chemistry: courses/organic-chemistry.md
+          - Introduction to Process Technology: courses/introduction-to-process-technology.md
+          - Chemical Lab Techniques: courses/chemical-lab-techniques.md
+          - Physical Chemistry: courses/physical-chemistry.md
+          - Biochemistry and Cell Biology: courses/biochemistry-and-cell-biology.md
+          - Analytical Chemistry: courses/analytical-chemistry.md
+          - Engineering Experience 2 Chemical: courses/engineering-experience-2-chemical.md
+          - Instrumental Analytical Chemistry: courses/instrumental-analytical-chemistry.md
+          - Separation Technology: courses/separation-technology.md
+          - Applied Mass and Heat Transfer and Thermodynamics: courses/applied-mass-and-heat-transfer-and-thermodynamics.md
+          - Process Control: courses/process-control.md
+          - Environmental Technology: courses/environmental-technology.md
+          - Reactor Technology: courses/reactor-technology.md
+          - Applied Engineering Techniques: courses/applied-engineering-techniques.md
+          - Engineering Experience 3 Chemical: courses/engineering-experience-3-chemical.md
+
+      - Chemical Engineering Option:
+          - Microbiology: courses/microbiology.md
+          - Polymer Chemistry and Plastics Technology: courses/polymer-chemistry-and-plastics-technology.md
+          - Industrial Chemistry: courses/industrial-chemistry.md
+          - Chemical Engineering Computing: courses/chemical-engineering-computing.md
+          - Environmental Experiences: courses/environmental-experiences.md
+
+      - Biochemical Engineering Option:
+          - Microbiology: courses/microbiology.md
+          - Biochemical Analysis Techniques: courses/biochemical-analysis-techniques.md
+          - Food Technology: courses/food-technology.md
+          - Molecular Biology: courses/molecular-biology.md
+          - Advanced Microbiology: courses/advanced-microbiology.md
