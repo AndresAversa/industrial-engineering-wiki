@@ -83,7 +83,7 @@ nav:
           - Engineering and Sustainability: courses/engineering-and-sustainability.md
           - Religions: courses/religions.md          
 
-  - Electromechanical Engineering:
+  - Electromechanical:
       - Overview: electromechanical/index.md
 
       - Bachelor:
@@ -163,7 +163,7 @@ nav:
               - Vehicle Dynamics: courses/vehicle-dynamics.md
               - Race Car Aerodynamics: courses/race-car-aerodynamics.md
 
-  - Electronics and ICT Engineering:
+  - Electronics and ICT:
       - Overview: electronics/index.md
 
       - Bachelor:
@@ -218,7 +218,7 @@ nav:
               - Total Quality Management: courses/total-quality-management.md
 
 
-  - Chemical Engineering:
+  - Chemical:
       - Overview: chemical/index.md
 
       - Bachelor:
